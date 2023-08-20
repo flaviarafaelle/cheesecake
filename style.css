@@ -88,7 +88,6 @@ footer a {
     flex-direction: row;
     max-width: fit-content;
     gap: 11rem;
-    margin-top: 6rem;
   }
 
   .recipe {
